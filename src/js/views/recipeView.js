@@ -1,4 +1,4 @@
-import { Fraction } from 'fractional';
+// import { Fraction } from 'fractional';
 import { numberToFraction } from '../helpers.js';
 import View from './View.js';
 
